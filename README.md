@@ -1,15 +1,24 @@
 <<<<<<< HEAD
-# Belajar Menggunakan Github
+# Tutorial Belajar Pemrograman
+* Gunakan Semua Aplikasi Yang ada
+	* Sublime Text
+	* Notepad ++
+	* Gedit
+	* Geany
 
-* Langkah Pertama Adalah Belajar
-* Langaka Kedua adalah Jangan Patah Semangat
-* Langkah Ketiga adalah Gas Terus
-* Step Keempat Adalah hindari hal ganjil
+# Bahasa Pemrograman
+* Css
+* Javascript
+* jQuery
+* Ajax
+* Php
+* Html
 
-# Download Git
-* Untuk mendownload git silahkan kesini
-* Jangan Pernah mencoba untuk berubah Ye
-=======
+# Repository
+* Github
+* Bitbucket
+
+@ Referensi Lain cari di internet
 # Codexecute
 This repository for code execute debugging
 
